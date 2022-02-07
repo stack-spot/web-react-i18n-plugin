@@ -1,0 +1,8 @@
+name: i18n
+description: Add typesafe-i18n as i18 solution
+types:
+  - app
+tags:
+  - "orange-stackfront-web-scaffold"
+  - "orange-stackfront-web-shell-scaffold"
+  - "orange-stackfront-web-i18n-plugin"
