@@ -1,0 +1,1 @@
+O **web-react-i18n-plugin** adiciona uma biblioteca de localização opinativa, totalmente segura e leve para projetos TypeScript sem dependências externas.
