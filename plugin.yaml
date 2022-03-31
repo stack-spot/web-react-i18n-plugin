@@ -22,7 +22,7 @@ picture: "logo.png"
 # Plugin podem perceber a qualquer category
 category: frontend
 
-## Lista de tecnologias que você gostaria de enfatizar que é compativel
+## Lista de tecnologias que você gostaria de enfatizar que é compatível
 compatibility:
   - reactjs
 
