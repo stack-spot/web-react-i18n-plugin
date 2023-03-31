@@ -30,3 +30,4 @@ https://github.com/stack-spot/web-react-i18n-plugin.git
   npm install typesafe-i18n
 ```
 Para visualizar a documentação do typefase-i18n acesse: https://github.com/ivanhofer/typesafe-i18n
+
